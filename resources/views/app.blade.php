@@ -29,6 +29,16 @@
                         <a class="nav-link" href="{{ route('registerForm') }}">Register</a>
                     </li>
 
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ route('loginForm') }}">Login</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="">Logout</a>
+                    </li>
+
+
+
                 </ul>
             </div>
         </div>
